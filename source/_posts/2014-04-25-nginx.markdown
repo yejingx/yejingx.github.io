@@ -1,0 +1,13 @@
+---
+layout: post
+title: "nginx"
+date: 2014-04-25 18:04:28 +0800
+comments: true
+categories: 
+---
+
+
+#### nginx
+
+
+test
